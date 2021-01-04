@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815309102706",
+    "firebase_url": "https://everydayapp-80436.firebaseio.com",
+    "project_id": "everydayapp-80436",
+    "storage_bucket": "everydayapp-80436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815309102706:android:5e3eab4811310b4b9f6ceb",
+        "android_client_info": {
+          "package_name": "com.example.everyday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815309102706-kqghakjvodeg5tal4cbk77mad1sg2ga7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.everyday",
+            "certificate_hash": "f326782275f29c110422713370040b9d22042e4d"
+          }
+        },
+        {
+          "client_id": "815309102706-ea0dv7cfdvnb39gekr6sb3rj409sg7dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGAneJdUPhQfU8f8PWYJIqlsMpjEq8Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815309102706-ea0dv7cfdvnb39gekr6sb3rj409sg7dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
